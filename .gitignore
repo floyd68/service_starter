@@ -1,0 +1,8 @@
+/build/
+/out/
+/artifacts/
+CMakeUserPresets.json
+.vs/
+*.user
+.env
+.env.*
